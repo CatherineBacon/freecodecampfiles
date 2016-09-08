@@ -1,7 +1,7 @@
 .flag {
         width: 16px;
         height: 16px;
-        background:url('https://github.com/CatherineBacon/freecodecampfiles/raw/master/flags.png') no-repeat}
+        background:url('https://cdn.rawgit.com/CatherineBacon/freecodecampfiles/master/flags.png') no-repeat}
 
 
 .flag.flag-ad {background-position: -16px 0}
